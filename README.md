@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKAVespaET3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKAVespaET3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🛠 Tech Stack 

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=47A248&fontAlign=50&fontAlignY=30&text=AKAVespaET3&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=47A248&fontAlign=50&fontAlignY=30&text=AKAVespaET3&desc=Full-Stack%20Developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff&width=100%)
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=AKAVespaET3&style=flat-square&color=blue" alt=""/>
@@ -32,5 +32,5 @@
   </a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=47A248&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=47A248&height=200&section=footer&width=100%)
 

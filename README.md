@@ -24,11 +24,12 @@
 ### 🔥My Stats 
 ---
 <div align="center">
-  
-  ![AKAVespaET3's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKAVespaET3&show_icons=true&theme=algolia)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKAVespaET3&layout=compact&theme=algolia)
-  
+  <a href="https://github.com/AKAVespaET3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKAVespaET3&show_icons=true&theme=algolia&line_height=27" />
+  </a>
+  <a href="https://github.com/AKAVespaET3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKAVespaET3&theme=algolia&hide=java,html,python&langs_count=3" />
+  </a>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=47A248&height=200&section=footer)

@@ -23,9 +23,13 @@
 
 ### 🔥My Stats 
 ---
-![AKAVespaET3 GitHub stats](https://github-readme-stats.vercel.app/api?username=AKAVespaET3&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKAVespaET3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  ![AKAVespaET3's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKAVespaET3&show_icons=true&theme=algolia)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKAVespaET3&layout=compact&theme=algolia)
+  
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=47A248&height=200&section=footer)
 
